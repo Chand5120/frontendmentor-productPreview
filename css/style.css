@@ -66,6 +66,10 @@ button{
 
 }
 
+button:hover{
+    background-color: hsl(159, 35%, 19%);
+}
+
 .forfun{ /*For Perfume*/
     text-transform: uppercase;
     letter-spacing: 0.2em;
